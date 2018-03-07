@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27323.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonApi", "LondonApi\LondonApi.csproj", "{48CD979E-446B-4D78-A916-D57C36FBC1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CD979E-446B-4D78-A916-D57C36FBC1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CD979E-446B-4D78-A916-D57C36FBC1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CD979E-446B-4D78-A916-D57C36FBC1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CD979E-446B-4D78-A916-D57C36FBC1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB84BA2-4B30-4DD6-88CB-B4C81066ECC5}
+	EndGlobalSection
+EndGlobal
